@@ -1,0 +1,339 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\SteamApps\sourcemods\Crimewars2013\materials
+Loading O:\cw_bloodmoney\cw_bloodmoney_v9.vmf
+material "brick/brickwall004a" not found.
+Material not found!: BRICK/BRICKWALL004A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "de_piranesi/woodfloor03" not found.
+Material not found!: DE_PIRANESI/WOODFLOOR03
+material "nature/blendprodasphaltgrass" not found.
+Material not found!: NATURE/BLENDPRODASPHALTGRASS
+material "ajacks/ben_paintdarkred" not found.
+Material not found!: AJACKS/BEN_PAINTDARKRED
+material "de_nuke/nukmetwallg" not found.
+Material not found!: DE_NUKE/NUKMETWALLG
+material "nature/blendmilground008_2" not found.
+Material not found!: NATURE/BLENDMILGROUND008_2
+material "effects/metaldoor017a" not found.
+Material not found!: EFFECTS/METALDOOR017A
+material "brick/brickwall022a" not found.
+Material not found!: BRICK/BRICKWALL022A
+material "de_nuke/nuke_metaltrims_01" not found.
+Material not found!: DE_NUKE/NUKE_METALTRIMS_01
+material "wood/infwoodfloor008a" not found.
+Material not found!: WOOD/INFWOODFLOOR008A
+material "de_piranesi/pi_grnmetalt" not found.
+Material not found!: DE_PIRANESI/PI_GRNMETALT
+material "metal/prodgratea" not found.
+Material not found!: METAL/PRODGRATEA
+material "wood/offdesktopsd" not found.
+Material not found!: WOOD/OFFDESKTOPSD
+material "metal/offgaragedr" not found.
+Material not found!: METAL/OFFGARAGEDR
+material "de_piranesi/marblefloor06" not found.
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+material "cs_italy/tileroof01" not found.
+Material not found!: CS_ITALY/TILEROOF01
+material "cs_italy/plasterwall02" not found.
+Material not found!: CS_ITALY/PLASTERWALL02
+material "de_prodigy/floor05" not found.
+Material not found!: DE_PRODIGY/FLOOR05
+material "tile/infflrb" not found.
+Material not found!: TILE/INFFLRB
+material "de_tides/tides_floor_wood" not found.
+Material not found!: DE_TIDES/TIDES_FLOOR_WOOD
+material "metal/portwall002" not found.
+Material not found!: METAL/PORTWALL002
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\crimewars2013\gameinfo.txt
+Patching WVT material: maps/cw_bloodmoney_v9/nature/blendcliffdirt001a_wvt_patch
+Patching WVT material: maps/cw_bloodmoney_v9/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3346 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing O:\cw_bloodmoney\cw_bloodmoney_v9.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1491730 bytes)
+Error loading studio model "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model "models/props/cs_office/light_inset.mdl"!
+Error loading studio model "models/props/cs_assault/streetlight.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9Material NATURE/BLENDGRASSGRAVEL001A uses unknown detail object type coastline_redgrass02!
+Material NATURE/BLENDGRASSGRAVEL001A uses unknown detail object type coastline_redgrass02!
+...10
+Compacting texture/material tables...
+Reduced 9981 texinfos to 5069
+Reduced 473 texdatas to 372 (16132 bytes to 13272)
+Writing O:\cw_bloodmoney\cw_bloodmoney_v9.bsp
+9 seconds elapsed
+
+
+
+6 threads
+reading o:\cw_bloodmoney\cw_bloodmoney_v9.bsp
+reading o:\cw_bloodmoney\cw_bloodmoney_v9.prt
+ 891 portalclusters
+3423 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 11869 visible clusters (1.73%)
+Total clusters visible: 687388
+Average clusters visible: 771
+Building PAS...
+Average clusters audible: 874
+visdatasize:203420  compressed from 199584
+writing o:\cw_bloodmoney\cw_bloodmoney_v9.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file I:\SteamLibrary\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading o:\cw_bloodmoney\cw_bloodmoney_v9.bsp
+14898 faces
+18 degenerate faces
+2536561 square feet [365264800.00 square inches]
+9 Displacements
+33681 Square Feet [4850125.50 Square Inches]
+14880 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+162574 patches after subdivision
+169 direct lights
+0...1...2...3
+WARNING: Too many light styles on a face at (-1144.000000, 2962.078857, -102.060997)
+
+WARNING: Too many light styles on a face at (-1006.000000, 2869.328613, -120.560997)
+...4...5...6...7...8..
+WARNING: Too many light styles on a face at (-1014.119995, 2875.701660, -107.559799)
+
+WARNING: Too many light styles on a face at (-1005.090027, 2885.197021, -110.561005)
+
+WARNING: Too many light styles on a face at (-1008.604980, 2957.516846, -110.060997)
+.9...100...1...2...3...4...5...6...7...8...9...10transfers 15734804, max 2143
+transfer lists: 120.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(913825, 594831, 272656)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(123321, 76076, 31995)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(21117, 13197, 5249)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4731, 2937, 1098)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1209, 728, 254)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(340, 195, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(101, 55, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(32, 16, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(10, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0547 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 209/1024        10032/49152    (20.4%) 
+brushes               3631/8192        43572/98304    (44.3%) 
+brushsides           26535/65536      212280/524288   (40.5%) 
+planes               23434/65536      468680/1310720  (35.8%) 
+vertexes             34493/65536      413916/786432   (52.6%) 
+nodes                 3137/65536      100384/2097152  ( 4.8%) 
+texinfos              5069/12288      364968/884736   (41.3%) 
+texdata                372/2048        11904/65536    (18.2%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts             545/0           10900/0        ( 0.0%) 
+disp_tris              864/0            1728/0        ( 0.0%) 
+disp_lmsamples       25869/0           25869/0        ( 0.0%) 
+faces                14898/65536      834288/3670016  (22.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            11534/65536      645904/3670016  (17.6%) 
+leaves                3347/65536      107104/2097152  ( 5.1%) 
+leaffaces            21287/65536       42574/131072   (32.5%) 
+leafbrushes           7723/65536       15446/131072   (11.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           125157/512000     500628/2048000  (24.4%) 
+edges                81287/256000     325148/1024000  (31.8%) 
+LDR worldlights        169/8192        14872/720896   ( 2.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2873/32768       28730/327680   ( 8.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         59691/65536      119382/131072   (91.1%) VERY FULL!
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 5/512          1760/180224   ( 1.0%) 
+LDR lightdata         [variable]     8500472/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      203420/16777216 ( 1.2%) 
+entdata               [variable]      241244/393216   (61.4%) 
+LDR ambient table     3347/65536       13388/262144   ( 5.1%) 
+HDR ambient table     3347/65536       13388/262144   ( 5.1%) 
+LDR leaf ambient     11136/65536      311808/1835008  (17.0%) 
+HDR leaf ambient      3347/65536       93716/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/17098    ( 0.0%) 
+pakfile               [variable]       52018/0        ( 0.0%) 
+physics               [variable]     1491730/4194304  (35.6%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48986
+Writing o:\cw_bloodmoney\cw_bloodmoney_v9.bsp
+1 minute, 31 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file I:\SteamLibrary\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading o:\cw_bloodmoney\cw_bloodmoney_v9.bsp
+14898 faces
+18 degenerate faces
+2536561 square feet [365264800.00 square inches]
+9 Displacements
+33681 Square Feet [4850125.50 Square Inches]
+14880 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+162574 patches after subdivision
+169 direct lights
+0...1...2...3
+WARNING: Too many light styles on a face at (-1144.000000, 2962.078857, -102.060997)
+
+WARNING: Too many light styles on a face at (-1006.000000, 2869.328613, -120.560997)
+...4...5...6...7...8..
+WARNING: Too many light styles on a face at (-1014.119995, 2875.701660, -107.559799)
+
+WARNING: Too many light styles on a face at (-1005.090027, 2885.197021, -110.561005)
+
+WARNING: Too many light styles on a face at (-1008.604980, 2957.516846, -110.060997)
+.9...100...1...2...3...4...5...6...7...8...9...10transfers 15734804, max 2143
+transfer lists: 120.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(913825, 594831, 272656)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(123321, 76076, 31995)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(21117, 13197, 5249)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4731, 2937, 1098)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1209, 728, 254)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(340, 195, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(101, 55, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(32, 16, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(10, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0593 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 209/1024        10032/49152    (20.4%) 
+brushes               3631/8192        43572/98304    (44.3%) 
+brushsides           26535/65536      212280/524288   (40.5%) 
+planes               23434/65536      468680/1310720  (35.8%) 
+vertexes             34493/65536      413916/786432   (52.6%) 
+nodes                 3137/65536      100384/2097152  ( 4.8%) 
+texinfos              5069/12288      364968/884736   (41.3%) 
+texdata                372/2048        11904/65536    (18.2%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts             545/0           10900/0        ( 0.0%) 
+disp_tris              864/0            1728/0        ( 0.0%) 
+disp_lmsamples       25869/0           25869/0        ( 0.0%) 
+faces                14898/65536      834288/3670016  (22.7%) 
+hdr faces            14898/65536      834288/3670016  (22.7%) 
+origfaces            11534/65536      645904/3670016  (17.6%) 
+leaves                3347/65536      107104/2097152  ( 5.1%) 
+leaffaces            21287/65536       42574/131072   (32.5%) 
+leafbrushes           7723/65536       15446/131072   (11.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           125157/512000     500628/2048000  (24.4%) 
+edges                81287/256000     325148/1024000  (31.8%) 
+LDR worldlights        169/8192        14872/720896   ( 2.1%) 
+HDR worldlights        169/8192        14872/720896   ( 2.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2873/32768       28730/327680   ( 8.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         59691/65536      119382/131072   (91.1%) VERY FULL!
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 5/512          1760/180224   ( 1.0%) 
+LDR lightdata         [variable]     8500472/0        ( 0.0%) 
+HDR lightdata         [variable]     8500472/0        ( 0.0%) 
+visdata               [variable]      203420/16777216 ( 1.2%) 
+entdata               [variable]      241244/393216   (61.4%) 
+LDR ambient table     3347/65536       13388/262144   ( 5.1%) 
+HDR ambient table     3347/65536       13388/262144   ( 5.1%) 
+LDR leaf ambient     11136/65536      311808/1835008  (17.0%) 
+HDR leaf ambient     11136/65536      311808/1835008  (17.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/17098    ( 0.0%) 
+pakfile               [variable]       52018/0        ( 0.0%) 
+physics               [variable]     1491730/4194304  (35.6%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48986
+Writing o:\cw_bloodmoney\cw_bloodmoney_v9.bsp
+1 minute, 33 seconds elapsed

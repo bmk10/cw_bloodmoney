@@ -1,0 +1,121 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\SteamApps\sourcemods\CrimeWars2013\materials
+Loading o:\cw_bloodmoney\cw_bloodmoney_v10.vmf
+material "brick/brickwall004a" not found.
+Material not found!: BRICK/BRICKWALL004A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "de_piranesi/woodfloor03" not found.
+Material not found!: DE_PIRANESI/WOODFLOOR03
+material "nature/blendprodasphaltgrass" not found.
+Material not found!: NATURE/BLENDPRODASPHALTGRASS
+material "ajacks/ben_paintdarkred" not found.
+Material not found!: AJACKS/BEN_PAINTDARKRED
+material "de_nuke/nukmetwallg" not found.
+Material not found!: DE_NUKE/NUKMETWALLG
+material "nature/blendmilground008_2" not found.
+Material not found!: NATURE/BLENDMILGROUND008_2
+material "effects/metaldoor017a" not found.
+Material not found!: EFFECTS/METALDOOR017A
+material "brick/brickwall022a" not found.
+Material not found!: BRICK/BRICKWALL022A
+material "de_nuke/nuke_metaltrims_01" not found.
+Material not found!: DE_NUKE/NUKE_METALTRIMS_01
+material "wood/infwoodfloor008a" not found.
+Material not found!: WOOD/INFWOODFLOOR008A
+material "de_piranesi/pi_grnmetalt" not found.
+Material not found!: DE_PIRANESI/PI_GRNMETALT
+material "metal/prodgratea" not found.
+Material not found!: METAL/PRODGRATEA
+material "wood/offdesktopsd" not found.
+Material not found!: WOOD/OFFDESKTOPSD
+material "metal/offgaragedr" not found.
+Material not found!: METAL/OFFGARAGEDR
+material "de_piranesi/marblefloor06" not found.
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+material "cs_italy/tileroof01" not found.
+Material not found!: CS_ITALY/TILEROOF01
+material "cs_italy/plasterwall02" not found.
+Material not found!: CS_ITALY/PLASTERWALL02
+material "de_prodigy/floor05" not found.
+Material not found!: DE_PRODIGY/FLOOR05
+material "tile/infflrb" not found.
+Material not found!: TILE/INFFLRB
+material "de_tides/tides_floor_wood" not found.
+Material not found!: DE_TIDES/TIDES_FLOOR_WOOD
+material "metal/portwall002" not found.
+Material not found!: METAL/PORTWALL002
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\crimewars2013\gameinfo.txt
+Patching WVT material: maps/cw_bloodmoney_v10/nature/blendcliffdirt001a_wvt_patch
+Patching WVT material: maps/cw_bloodmoney_v10/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 3346 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing o:\cw_bloodmoney\cw_bloodmoney_v10.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1491730 bytes)
+Error loading studio model "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model "models/props/cs_office/light_inset.mdl"!
+Error loading studio model "models/props/cs_assault/streetlight.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9Material NATURE/BLENDGRASSGRAVEL001A uses unknown detail object type coastline_redgrass02!
+Material NATURE/BLENDGRASSGRAVEL001A uses unknown detail object type coastline_redgrass02!
+...10
+Compacting texture/material tables...
+Reduced 9981 texinfos to 5069
+Reduced 473 texdatas to 372 (16275 bytes to 13399)
+Writing o:\cw_bloodmoney\cw_bloodmoney_v10.bsp
+6 seconds elapsed
+
+
+
+6 threads
+reading o:\cw_bloodmoney\cw_bloodmoney_v10.bsp
+reading o:\cw_bloodmoney\cw_bloodmoney_v10.prt
+ 891 portalclusters
+3423 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7.
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file I:\SteamLibrary\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading o:\cw_bloodmoney\cw_bloodmoney_v10.bsp
+No vis information, direct lighting only.
+14898 faces
+18 degenerate faces
+2536561 square feet [365264800.00 square inches]
+9 Displacements
+33681 Square Feet [4850125.50 Square Inches]
+169 direct lights
+0...1...2...
+WARNING: Too many light styles on a face at (-1144.000000, 2962.078857, -102.060997)
+3
+WARNING: Too many light styles on a face at (-1006.000000, 2869.328613, -120.560997)
+...4...5...6...7...8..
+WARNING: Too many light styles on a face at (-1014.119995, 2875.701660, -107.559799)
+
+WARNING: Too many light styles on a face at (-1005.090027, 2885.197021, -110.561005)
+
+WARNING: Too many light styles on a face at (-1008.604980, 2957.516846, -110.060997)
+.9...10Build Patch/Sample Hash Table(s).....Done<0.0451 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...
